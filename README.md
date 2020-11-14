@@ -16,4 +16,6 @@ For my analysis I decided to use such variables:
 + Y 
 + Location 
 
-More detailed information you can found in the attached files 
+More detailed information you can found in the attached files.
+
+It is important to mention that in creating map I have used library Folium which is not supported in Git platform.
