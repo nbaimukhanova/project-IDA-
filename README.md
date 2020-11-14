@@ -18,4 +18,4 @@ For my analysis I decided to use such variables:
 
 More detailed information you can found in the attached files.
 
-It is important to mention that in creating map I have used library Folium which is not supported in Git platform. I have tried to import notebook as HTML file, but it does not work. The map was not shown in git anyway. That is why here is ipynb file as the final version.
+It is important to mention that in creating map I have used library Folium which is not supported in Git platform. I have tried to import notebook as HTML file, but it does not work. The map is still invisible in git. That is why here is ipynb file as the final version.
